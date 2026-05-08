@@ -182,6 +182,20 @@ Left Join s on c.seller_id = s.seller_id;
 
 ---
 
+## Tools & Technologies
+
+- MySQL
+- Python
+- Pandas
+- Matplotlib
+- Jupyter Notebook
+- SQL Window Functions
+- Common Table Expressions (CTEs)
+- Haversine Formula
+- GitHub
+
+---
+
 ## Dataset
 
 Dataset: [Olist Brazilian E-Commerce Dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
